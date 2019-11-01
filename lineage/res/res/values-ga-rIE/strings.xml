@@ -5,7 +5,6 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageos_system_label">Córas LineageOS</string>
     <string name="permlab_modifyProfiles">próifílí córais a mhodhnú</string>
     <string name="permdesc_modifyProfiles">Ligeann sé d\'aip próifílí córais a mhodhnú.</string>
     <string name="permlab_useHardwareFramework">úsáid creatlach crua-earraí</string>

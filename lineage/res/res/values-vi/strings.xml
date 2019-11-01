@@ -5,7 +5,6 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageos_system_label">Hệ thống LineageOS</string>
     <string name="permlab_modifyProfiles">sửa đổi cấu hình hệ thống</string>
     <string name="permdesc_modifyProfiles">Cho phép một ứng dụng sửa đổi cấu hình hệ thống.</string>
     <string name="permlab_useHardwareFramework">dùng khung làm việc phần cứng</string>

@@ -5,7 +5,6 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageos_system_label">LineageOS-System</string>
     <string name="permlab_modifyProfiles">Systemprofile ändern</string>
     <string name="permdesc_modifyProfiles">Ermöglicht der App, Systemprofile zu ändern.</string>
     <string name="permlab_useHardwareFramework">Hardware-Framework verwenden</string>

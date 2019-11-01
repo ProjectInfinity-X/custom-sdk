@@ -16,11 +16,11 @@ public class Build {
     /** Value used for when a build property is unknown. */
     public static final String UNKNOWN = "unknown";
 
-    /** A build ID utilized to distinguish lineageos versions */
-    public static final String LINEAGEOS_VERSION = getString("ro.lineage.version");
+    /** A build ID utilized to distinguish b/w versions */
+    public static final String INFINITY_VERSION = getString("ro.infinity.version");
 
     /** A build ID string meant for displaying to the user */
-    public static final String LINEAGEOS_DISPLAY_VERSION = getString("ro.lineage.display.version");
+    public static final String INFINITY_DISPLAY_VERSION = getString("ro.infinity.display.version");
 
     private static final SparseArray<String> sdkMap;
     static
